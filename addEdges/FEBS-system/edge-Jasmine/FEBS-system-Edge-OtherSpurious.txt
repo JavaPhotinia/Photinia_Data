@@ -1,0 +1,2 @@
+<cc.mrbird.febs.server.system.utils.AddressUtil: java.lang.String getCityInfo(java.lang.String)>-><org.springframework.web.util.pattern.PatternParseException: java.lang.String getMessage()>
+<cc.mrbird.febs.common.core.entity.system.LoginLog: void setSystemBrowserInfo(java.lang.String)>-><org.springframework.web.util.pattern.PatternParseException: java.lang.String getMessage()>

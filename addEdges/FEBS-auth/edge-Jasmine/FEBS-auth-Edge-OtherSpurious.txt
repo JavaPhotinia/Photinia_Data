@@ -1,0 +1,2 @@
+<cc.mrbird.febs.common.core.entity.system.Menu: boolean equals(java.lang.Object)>-><java.util.Date: boolean equals(java.lang.Object)>
+<cc.mrbird.febs.common.core.entity.system.Menu: int hashCode()>-><java.lang.String: int hashCode()>
