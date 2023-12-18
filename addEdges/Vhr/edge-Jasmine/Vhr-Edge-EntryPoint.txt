@@ -1,0 +1,3 @@
+<org.javaboy.vhr.controller.LoginController: void verifyCode(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)>-><org.apache.catalina.connector.ResponseFacade: javax.servlet.ServletOutputStream getOutputStream()>
+<org.javaboy.vhr.VhrApplication: void main(java.lang.String[])>-><org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController: void <init>(org.springframework.boot.web.servlet.error.ErrorAttributes,org.springframework.boot.autoconfigure.web.ErrorProperties)>
+<org.javaboy.vhr.controller.LoginController: void verifyCode(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)>-><javax.servlet.http.HttpServletRequestWrapper: javax.servlet.http.HttpSession getSession(boolean)>

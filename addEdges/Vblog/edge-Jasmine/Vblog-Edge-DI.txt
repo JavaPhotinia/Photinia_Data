@@ -1,0 +1,2 @@
+<org.sang.service.ArticleService: int addNewArticle(org.sang.bean.Article)>-><java.lang.Integer: int intValue()>
+<synthetic.method.SingletonFactory: void <clinit>()>-><org.sang.BlogserverApplication: void <init>()>

@@ -1,0 +1,4 @@
+<org.javaboy.vhr.service.HrService: boolean updateHrPasswd(java.lang.String,java.lang.String,java.lang.Integer)>-><org.javaboy.vhr.model.Hr: java.lang.String getPassword()>
+<synthetic.method.SingletonFactory: void <clinit>()>-><org.javaboy.vhr.exception.GlobalExceptionHandler: void <init>()>
+<org.javaboy.vhr.config.CustomFilterInvocationSecurityMetadataSource: java.util.Collection getAttributes(java.lang.Object)>-><org.javaboy.vhr.service.MenuService: java.util.List getAllMenusWithRole()>
+<synthetic.method.SingletonFactory: void <clinit>()>-><org.javaboy.vhr.VhrApplication: void <init>()>
