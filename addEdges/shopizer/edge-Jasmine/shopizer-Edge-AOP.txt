@@ -1,0 +1,3 @@
+<com.salesmanager.shop.populator.PersistableAuditAspect: void afterReturning(org.aspectj.lang.JoinPoint,java.lang.Object)>-><org.springframework.mail.MailSendException: java.lang.String getMessage()>
+<com.salesmanager.shop.populator.PersistableAuditAspect: void afterReturning(org.aspectj.lang.JoinPoint,java.lang.Object)>-><org.springframework.web.util.pattern.PatternParseException: java.lang.String getMessage()>
+<com.salesmanager.core.business.services.reference.init.InitializationDatabaseImpl$$SpringCGLIB: void populate(java.lang.String)>-><com.salesmanager.core.business.services.reference.init.InitializationDatabaseImpl$$SpringCGLIB: java.lang.String getString()>

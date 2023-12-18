@@ -1,0 +1,8 @@
+<co.yiiu.pybbs.config.realm.MyShiroRealm: org.apache.shiro.authz.AuthorizationInfo doGetAuthorizationInfo(org.apache.shiro.subject.PrincipalCollection)>-><java.util.Collection: java.util.stream.Stream stream()>
+<co.yiiu.pybbs.config.realm.MyShiroRealm: org.apache.shiro.authc.AuthenticationInfo doGetAuthenticationInfo(org.apache.shiro.authc.AuthenticationToken)>-><org.slf4j.helpers.NOPLogger: void info(java.lang.String,java.lang.Object)>
+<co.yiiu.pybbs.config.realm.MyShiroRealm: org.apache.shiro.authz.AuthorizationInfo doGetAuthorizationInfo(org.apache.shiro.subject.PrincipalCollection)>-><java.util.Collections$SynchronizedCollection: java.util.stream.Stream stream()>
+<co.yiiu.pybbs.config.service.SmsService: boolean sendSms(java.lang.String,java.lang.String)>-><org.apache.shiro.session.mgt.SimpleSession: boolean equals(java.lang.Object)>
+<co.yiiu.pybbs.config.realm.MyShiroRealm: org.apache.shiro.authc.AuthenticationInfo doGetAuthenticationInfo(org.apache.shiro.authc.AuthenticationToken)>-><ch.qos.logback.classic.Logger: void info(java.lang.String,java.lang.Object)>
+<co.yiiu.pybbs.config.service.SmsService: boolean sendSms(java.lang.String,java.lang.String)>-><org.apache.shiro.authz.permission.WildcardPermission: boolean equals(java.lang.Object)>
+<co.yiiu.pybbs.config.service.SmsService: boolean sendSms(java.lang.String,java.lang.String)>-><org.apache.shiro.subject.SimplePrincipalCollection: boolean equals(java.lang.Object)>
+<co.yiiu.pybbs.config.realm.MyCredentialsMatcher: boolean doCredentialsMatch(org.apache.shiro.authc.AuthenticationToken,org.apache.shiro.authc.AuthenticationInfo)>-><org.apache.shiro.authc.UsernamePasswordToken: java.lang.Object getCredentials()>

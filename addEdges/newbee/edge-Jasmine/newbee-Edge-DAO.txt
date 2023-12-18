@@ -1,0 +1,15 @@
+<synthetic.method.NewBeeMallGoodsMapperImpl: java.util.List findNewBeeMallGoodsListBySearch(ltd.newbee.mall.util.PageQueryUtil)>-><java.util.Collections: java.util.List singletonList(java.lang.Object)>
+<synthetic.method.datatable.NEWBEEMALLGOODSLIST: void <clinit>()>-><synthetic.method.datatable.NEWBEEMALLGOODSLIST: void <init>()>
+<synthetic.method.NewBeeMallGoodsMapperImpl: java.util.List findNewBeeMallGoodsListBySearch(ltd.newbee.mall.util.PageQueryUtil)>-><ltd.newbee.mall.entity.NewBeeMallGoods: void <init>()>
+<synthetic.method.CarouselMapperImpl: java.util.List findCarouselsByNum(int)>-><synthetic.method.datatable.CAROUSELS: synthetic.method.datatable.CAROUSELS getInstance()>
+<synthetic.method.IndexConfigMapperImpl: java.util.List findIndexConfigsByTypeAndNum(int,int)>-><ltd.newbee.mall.entity.IndexConfig: void <init>()>
+<synthetic.method.datatable.CAROUSELS: void <clinit>()>-><synthetic.method.datatable.CAROUSELS: void <init>()>
+<synthetic.method.CarouselMapperImpl: java.util.List findCarouselsByNum(int)>-><ltd.newbee.mall.entity.Carousel: void <init>()>
+<synthetic.method.IndexConfigMapperImpl: java.util.List findIndexConfigsByTypeAndNum(int,int)>-><synthetic.method.datatable.INDEXCONFIGS: synthetic.method.datatable.INDEXCONFIGS getInstance()>
+<synthetic.method.datatable.INDEXCONFIGS: void <clinit>()>-><synthetic.method.datatable.INDEXCONFIGS: void <init>()>
+<synthetic.method.IndexConfigMapperImpl: java.util.List findIndexConfigsByTypeAndNum(int,int)>-><java.util.Collections: java.util.List singletonList(java.lang.Object)>
+<synthetic.method.NewBeeMallGoodsMapperImpl: java.util.List findNewBeeMallGoodsListBySearch(ltd.newbee.mall.util.PageQueryUtil)>-><synthetic.method.datatable.NEWBEEMALLGOODSLIST: synthetic.method.datatable.NEWBEEMALLGOODSLIST getInstance()>
+<synthetic.method.CarouselMapperImpl: java.util.List findCarouselsByNum(int)>-><java.util.Collections: java.util.List singletonList(java.lang.Object)>
+<synthetic.method.datatable.NEWBEEMALLGOODSLIST: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.datatable.INDEXCONFIGS: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.datatable.CAROUSELS: void <init>()>-><java.lang.Object: void <init>()>
