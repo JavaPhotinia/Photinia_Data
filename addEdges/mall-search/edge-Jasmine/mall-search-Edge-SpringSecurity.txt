@@ -1,0 +1,1 @@
+<com.macro.mall.security.component.RestfulAccessDeniedHandler: void handle(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.security.access.AccessDeniedException)>-><org.springframework.security.access.AccessDeniedException: java.lang.String getMessage()>

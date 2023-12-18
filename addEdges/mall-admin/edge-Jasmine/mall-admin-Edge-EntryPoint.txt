@@ -1,0 +1,11 @@
+<com.macro.mall.controller.UmsAdminController: com.macro.mall.common.api.CommonResult refreshToken(javax.servlet.http.HttpServletRequest)>-><javax.servlet.http.HttpServletRequestWrapper: java.lang.String getHeader(java.lang.String)>
+<com.macro.mall.controller.UmsAdminController: com.macro.mall.common.api.CommonResult getAdminInfo(java.security.Principal)>-><javax.security.auth.kerberos.KerberosPrincipal: java.lang.String getName()>
+<com.macro.mall.controller.UmsAdminController: com.macro.mall.common.api.CommonResult getAdminInfo(java.security.Principal)>-><java.util.stream.ReferencePipeline: java.util.stream.Stream map(java.util.function.Function)>
+<com.macro.mall.controller.UmsAdminController: com.macro.mall.common.api.CommonResult getAdminInfo(java.security.Principal)>-><com.macro.mall.model.UmsAdmin: java.lang.String getUsername()>
+<com.macro.mall.controller.UmsAdminController: com.macro.mall.common.api.CommonResult getAdminInfo(java.security.Principal)>-><java.util.Collection: java.util.stream.Stream stream()>
+<com.macro.mall.controller.MinioController: com.macro.mall.common.api.CommonResult upload(org.springframework.web.multipart.MultipartFile)>-><org.springframework.web.util.pattern.PatternParseException: java.lang.String getMessage()>
+<com.macro.mall.controller.UmsAdminController: com.macro.mall.common.api.CommonResult getAdminInfo(java.security.Principal)>-><com.macro.mall.model.UmsAdmin: java.lang.String getIcon()>
+<com.macro.mall.controller.UmsAdminController: com.macro.mall.common.api.CommonResult getAdminInfo(java.security.Principal)>-><com.macro.mall.model.UmsAdmin: java.lang.Long getId()>
+<com.macro.mall.MallAdminApplication: void main(java.lang.String[])>-><org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController: void <init>(org.springframework.boot.web.servlet.error.ErrorAttributes,org.springframework.boot.autoconfigure.web.ErrorProperties)>
+<com.macro.mall.controller.UmsAdminController: com.macro.mall.common.api.CommonResult getAdminInfo(java.security.Principal)>-><java.util.stream.ReferencePipeline: java.lang.Object collect(java.util.stream.Collector)>
+<com.macro.mall.controller.UmsResourceController: void <init>()>-><com.macro.mall.security.component.DynamicSecurityMetadataSource: void <init>()>

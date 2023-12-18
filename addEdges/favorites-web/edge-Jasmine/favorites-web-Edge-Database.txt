@@ -1,0 +1,91 @@
+<synthetic.method.FollowRepositoryImpl: java.lang.Integer updateStatusById(com.favorites.domain.enums.FollowStatus,java.lang.Long,java.lang.Long)>-><synthetic.method.datatable.FOLLOW: synthetic.method.datatable.FOLLOW getInstance()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findMyFollowIdByUserId(java.lang.Long)>-><synthetic.method.datatable.USER: synthetic.method.datatable.USER getInstance()>
+<synthetic.method.ConfigRepositoryImpl: int updateFavoritesById(java.lang.Long,java.lang.String,java.lang.Long)>-><synthetic.method.datatable.CONFIG: synthetic.method.datatable.CONFIG getInstance()>
+<synthetic.method.UserRepositoryImpl: int setIntroduction(java.lang.String,java.lang.String)>-><synthetic.method.datatable.USER: synthetic.method.datatable.USER getInstance()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowUserByUserId(java.lang.Long)>-><java.lang.String: void <init>()>
+<synthetic.method.datatable.FAVORITES F: void <clinit>()>-><synthetic.method.datatable.FAVORITES F: void <init>()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findViewByFavoritesId(java.lang.Long,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.datatable.COLLECT C: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findMyFollowIdByUserId(java.lang.Long)>-><java.lang.Long: void <init>(long)>
+<synthetic.method.LetterRepositoryImpl: int updatePidById(java.lang.Long,java.lang.Long)>-><synthetic.method.datatable.LETTER L: synthetic.method.datatable.LETTER L getInstance()>
+<synthetic.method.FollowRepositoryImpl: java.lang.Integer updateStatusById(com.favorites.domain.enums.FollowStatus,java.lang.Long,java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.Long getid()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowedUserByFollowId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.id()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowUserByUserId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: synthetic.method.datatable.FOLLOW getInstance()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page searchMyByKey(java.lang.Long,java.lang.String,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.datatable.COMMENT: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.CommentRepositoryImpl: com.favorites.domain.view.CommentView findReplyUser(java.lang.Long)>-><synthetic.method.datatable.COMMENT: synthetic.method.datatable.COMMENT getInstance()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findViewByUserIdAndType(java.lang.Long,org.springframework.data.domain.Pageable,com.favorites.domain.enums.CollectType)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.LookRecordRepositoryImpl: org.springframework.data.domain.Page findViewByUserId(java.lang.Long,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.LOOKRECORD: synthetic.method.datatable.LOOKRECORD getInstance()>
+<synthetic.method.datatable.NOTICE N: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.FavoritesRepositoryImpl: void updateNameById(java.lang.Long,java.lang.Long,java.lang.String)>-><synthetic.method.datatable.FAVORITES: synthetic.method.datatable.FAVORITES getInstance()>
+<synthetic.method.NoticeRepositoryImpl: int updateReadedByUserId(java.lang.String,long,java.lang.String)>-><synthetic.method.datatable.NOTICE N: synthetic.method.datatable.NOTICE N getInstance()>
+<synthetic.method.datatable.USER: void <clinit>()>-><synthetic.method.datatable.USER: void <init>()>
+<synthetic.method.UserRepositoryImpl: int setOutDateAndValidataCode(java.lang.String,java.lang.String,java.lang.String)>-><synthetic.method.datatable.USER: synthetic.method.datatable.USER getInstance()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowUserByUserId(java.lang.Long)>-><java.util.Collections: java.util.List singletonList(java.lang.Object)>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowedUserByFollowId(java.lang.Long)>-><java.lang.String: void <init>()>
+<synthetic.method.datatable.FAVORITES: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.datatable.FOLLOW: void <clinit>()>-><synthetic.method.datatable.FOLLOW: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowedUserByFollowId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.username()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowUserByUserId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.username()>
+<synthetic.method.LookRecordRepositoryImpl: void updatelastModifyTime(java.lang.Long,java.lang.Long,java.lang.Long)>-><synthetic.method.datatable.LOOKRECORD: synthetic.method.datatable.LOOKRECORD getInstance()>
+<synthetic.method.datatable.COLLECT: void <clinit>()>-><synthetic.method.datatable.COLLECT: void <init>()>
+<synthetic.method.datatable.FOLLOW: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findMyFollowIdByUserId(java.lang.Long)>-><java.util.Collections: java.util.List singletonList(java.lang.Object)>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowedUserByFollowId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.introduction()>
+<synthetic.method.PraiseRepositoryImpl: com.favorites.domain.view.CommentView findPraiseUser(java.lang.Long)>-><synthetic.method.datatable.PRAISE: synthetic.method.datatable.PRAISE getInstance()>
+<synthetic.method.datatable.CONFIG: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.FavoritesRepositoryImpl: void updateNameById(java.lang.Long,java.lang.Long,java.lang.String)>-><synthetic.method.datatable.FAVORITES: java.lang.Long getid()>
+<synthetic.method.ConfigRepositoryImpl: int updateCollectTypeById(java.lang.Long,java.lang.String,java.lang.Long)>-><synthetic.method.datatable.CONFIG: synthetic.method.datatable.CONFIG getInstance()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findViewByUserIdAndTypeAndFavoritesId(java.lang.Long,org.springframework.data.domain.Pageable,com.favorites.domain.enums.CollectType,java.lang.Long)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowedUserByFollowId(java.lang.Long)>-><java.util.Collections: java.util.List singletonList(java.lang.Object)>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findViewByUserIdAndFollows(java.lang.Long,java.util.List,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.FavoritesRepositoryImpl: void reduceCountById(java.lang.Long,java.lang.Long)>-><synthetic.method.datatable.FAVORITES F: synthetic.method.datatable.FAVORITES F getInstance()>
+<synthetic.method.datatable.LOOKRECORD: void <clinit>()>-><synthetic.method.datatable.LOOKRECORD: void <init>()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findExploreViewByCategory(java.lang.String,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.datatable.CONFIG: void <clinit>()>-><synthetic.method.datatable.CONFIG: void <init>()>
+<synthetic.method.CollectRepositoryImpl: void deleteByFavoritesId(java.lang.Long)>-><synthetic.method.datatable.COLLECT: java.lang.Long getfavoritesid()>
+<synthetic.method.datatable.COLLECT: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowUserByUserId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.introduction()>
+<synthetic.method.datatable.PRAISE: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.datatable.FAVORITES F: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findByUserId(java.lang.Long)>-><java.lang.String: void <init>()>
+<synthetic.method.datatable.LETTER L: void <clinit>()>-><synthetic.method.datatable.LETTER L: void <init>()>
+<synthetic.method.ConfigRepositoryImpl: int updateModelTypeById(java.lang.Long,java.lang.String,java.lang.Long)>-><synthetic.method.datatable.CONFIG: java.lang.Long getid()>
+<synthetic.method.datatable.FAVORITES: void <clinit>()>-><synthetic.method.datatable.FAVORITES: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowedUserByFollowId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.profilepicture()>
+<synthetic.method.datatable.NOTICE: void <clinit>()>-><synthetic.method.datatable.NOTICE: void <init>()>
+<synthetic.method.datatable.NOTICE: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.datatable.LETTER: void <clinit>()>-><synthetic.method.datatable.LETTER: void <init>()>
+<synthetic.method.UserRepositoryImpl: int setUserName(java.lang.String,java.lang.String)>-><synthetic.method.datatable.USER: synthetic.method.datatable.USER getInstance()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findByUserId(java.lang.Long)>-><java.util.Collections: java.util.List singletonList(java.lang.Object)>
+<synthetic.method.NoticeRepositoryImpl: org.springframework.data.domain.Page findViewByUserIdAndType(java.lang.Long,java.lang.String,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.NOTICE: synthetic.method.datatable.NOTICE getInstance()>
+<synthetic.method.CollectRepositoryImpl: void deleteByFavoritesId(java.lang.Long)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.UserRepositoryImpl: int setBackgroundPicture(java.lang.String,java.lang.Long)>-><synthetic.method.datatable.USER: synthetic.method.datatable.USER getInstance()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findExploreViewByType(org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.UserRepositoryImpl: int setProfilePicture(java.lang.String,java.lang.Long)>-><synthetic.method.datatable.USER: synthetic.method.datatable.USER getInstance()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page searchOtherByKey(java.lang.Long,java.lang.String,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findByUserId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: synthetic.method.datatable.FOLLOW getInstance()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findViewByUserId(java.lang.Long,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findViewByUserIdAndIsDelete(java.lang.Long,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.datatable.LETTER: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findMyFollowIdByUserId(java.lang.Long)>-><synthetic.method.datatable.USER: java.lang.Long getf.followid()>
+<synthetic.method.datatable.NOTICE N: void <clinit>()>-><synthetic.method.datatable.NOTICE N: void <init>()>
+<synthetic.method.CollectRepositoryImpl: org.springframework.data.domain.Page findExploreView(java.lang.Long,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.COLLECT: synthetic.method.datatable.COLLECT getInstance()>
+<synthetic.method.datatable.USER: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowedUserByFollowId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: synthetic.method.datatable.FOLLOW getInstance()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowUserByUserId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.id()>
+<synthetic.method.LetterRepositoryImpl: java.util.List findLetterByReceiveUserId(java.lang.Long,org.springframework.data.domain.Pageable)>-><synthetic.method.datatable.LETTER: synthetic.method.datatable.LETTER getInstance()>
+<synthetic.method.CollectRepositoryImpl: int modifyByIdAndUserId(com.favorites.domain.enums.CollectType,java.lang.Long,java.lang.Long)>-><synthetic.method.datatable.COLLECT C: synthetic.method.datatable.COLLECT C getInstance()>
+<synthetic.method.datatable.LETTER L: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.NoticeRepositoryImpl: java.lang.Long countPraiseByUserIdAndReaded(java.lang.Long,java.lang.String)>-><synthetic.method.datatable.NOTICE: java.lang.Long getcount 1()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findFollowUserByUserId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.profilepicture()>
+<synthetic.method.NoticeRepositoryImpl: java.lang.Long countPraiseByUserIdAndReaded(java.lang.Long,java.lang.String)>-><synthetic.method.datatable.NOTICE: synthetic.method.datatable.NOTICE getInstance()>
+<synthetic.method.ConfigRepositoryImpl: int updateCollectTypeById(java.lang.Long,java.lang.String,java.lang.Long)>-><synthetic.method.datatable.CONFIG: java.lang.Long getid()>
+<synthetic.method.datatable.COMMENT: void <clinit>()>-><synthetic.method.datatable.COMMENT: void <init>()>
+<synthetic.method.FollowRepositoryImpl: java.util.List findByUserId(java.lang.Long)>-><synthetic.method.datatable.FOLLOW: java.lang.String getu.username()>
+<synthetic.method.datatable.PRAISE: void <clinit>()>-><synthetic.method.datatable.PRAISE: void <init>()>
+<synthetic.method.ConfigRepositoryImpl: int updateModelTypeById(java.lang.Long,java.lang.String,java.lang.Long)>-><synthetic.method.datatable.CONFIG: synthetic.method.datatable.CONFIG getInstance()>
+<synthetic.method.ConfigRepositoryImpl: int updateFavoritesById(java.lang.Long,java.lang.String,java.lang.Long)>-><synthetic.method.datatable.CONFIG: java.lang.Long getid()>
+<synthetic.method.UserRepositoryImpl: int setNewPassword(java.lang.String,java.lang.String)>-><synthetic.method.datatable.USER: synthetic.method.datatable.USER getInstance()>
+<synthetic.method.datatable.LOOKRECORD: void <init>()>-><java.lang.Object: void <init>()>
+<synthetic.method.datatable.COLLECT C: void <clinit>()>-><synthetic.method.datatable.COLLECT C: void <init>()>

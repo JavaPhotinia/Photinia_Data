@@ -1,0 +1,9 @@
+<com.macro.mall.search.service.impl.EsProductServiceImpl: com.macro.mall.search.domain.EsProduct create(java.lang.Long)>-><java.util.Collections$SingletonList: java.lang.Object get(int)>
+<com.macro.mall.search.service.impl.EsProductServiceImpl: org.springframework.data.domain.Page recommend(java.lang.Long,java.lang.Integer,java.lang.Integer)>-><java.util.Collections$SingletonList: java.lang.Object get(int)>
+<synthetic.method.SingletonFactory: void <clinit>()>-><com.macro.mall.common.exception.GlobalExceptionHandler: void <init>()>
+<com.macro.mall.search.service.impl.EsProductServiceImpl: org.springframework.data.domain.Page recommend(java.lang.Long,java.lang.Integer,java.lang.Integer)>-><com.macro.mall.search.domain.EsProduct: java.lang.Long getProductCategoryId()>
+<com.macro.mall.search.service.impl.EsProductServiceImpl: org.springframework.data.domain.Page recommend(java.lang.Long,java.lang.Integer,java.lang.Integer)>-><com.macro.mall.search.domain.EsProduct: java.lang.Long getBrandId()>
+<com.macro.mall.search.service.impl.EsProductServiceImpl: org.springframework.data.domain.Page recommend(java.lang.Long,java.lang.Integer,java.lang.Integer)>-><com.macro.mall.search.domain.EsProduct: java.lang.String getName()>
+<com.macro.mall.search.service.impl.EsProductServiceImpl: com.macro.mall.search.domain.EsProduct create(java.lang.Long)>-><java.util.Collections$SingletonList: int size()>
+<synthetic.method.SingletonFactory: void <clinit>()>-><com.macro.mall.search.MallSearchApplication: void <init>()>
+<com.macro.mall.search.service.impl.EsProductServiceImpl: org.springframework.data.domain.Page recommend(java.lang.Long,java.lang.Integer,java.lang.Integer)>-><java.util.Collections$SingletonList: int size()>

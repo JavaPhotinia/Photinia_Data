@@ -1,0 +1,1 @@
+<com.macro.mall.search.MallSearchApplication: void main(java.lang.String[])>-><org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController: void <init>(org.springframework.boot.web.servlet.error.ErrorAttributes,org.springframework.boot.autoconfigure.web.ErrorProperties)>

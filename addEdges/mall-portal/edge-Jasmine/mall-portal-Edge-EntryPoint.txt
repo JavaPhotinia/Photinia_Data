@@ -1,0 +1,7 @@
+<com.macro.mall.portal.controller.OmsCartItemController: com.macro.mall.common.api.CommonResult list()>-><com.macro.mall.model.UmsMember: java.lang.Long getId()>
+<com.macro.mall.portal.MallPortalApplication: void main(java.lang.String[])>-><org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController: void <init>(org.springframework.boot.web.servlet.error.ErrorAttributes,org.springframework.boot.autoconfigure.web.ErrorProperties)>
+<com.macro.mall.portal.controller.OmsCartItemController: com.macro.mall.common.api.CommonResult listPromotion(java.util.List)>-><com.macro.mall.model.UmsMember: java.lang.Long getId()>
+<com.macro.mall.portal.controller.OmsCartItemController: com.macro.mall.common.api.CommonResult delete(java.util.List)>-><com.macro.mall.model.UmsMember: java.lang.Long getId()>
+<com.macro.mall.portal.controller.UmsMemberCouponController: com.macro.mall.common.api.CommonResult listCart(java.lang.Integer)>-><com.macro.mall.model.UmsMember: java.lang.Long getId()>
+<com.macro.mall.portal.controller.OmsCartItemController: com.macro.mall.common.api.CommonResult updateQuantity(java.lang.Long,java.lang.Integer)>-><com.macro.mall.model.UmsMember: java.lang.Long getId()>
+<com.macro.mall.portal.controller.OmsCartItemController: com.macro.mall.common.api.CommonResult clear()>-><com.macro.mall.model.UmsMember: java.lang.Long getId()>
